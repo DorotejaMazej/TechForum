@@ -1,2 +1,2 @@
 # TechForum
-my first web page
+http://dorotejamazej.appspot.com
